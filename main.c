@@ -1,3 +1,6 @@
+@author Mar Ndiaye
+@date 12-02-2023
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
